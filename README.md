@@ -1,16 +1,12 @@
-## Hi there 👋
+# 👋 Hi, I'm Ashutosh Sharma
+### 🚀 Full Stack Developer | MERN | TypeScript | C++ | DSA Enthusiast
 
-<!--
-**upper-m00n/upper-m00n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Projects
+- 🔗 [VoidBlogs](https://github.com/your-username/VoidBlogs) — Full-stack blogging platform using MERN.
+- 🔗 [GhostNote](https://github.com/your-username/GhostNote) — Real-time note-taking app using Next.js & NextAuth.
+- 🔗 [Student Management System](https://github.com/your-username/StudentMS) — Frontend for managing students, homework, and syllabus.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact Me
+- 📧 [ashu.toast2004@gmail.com](mailto:ashu.toast2004@gmail.com)
+- 🌐 [Portfolio Website](https://the3d-portfolio.vercel.app/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ashutosh-sharma-063727144/)
