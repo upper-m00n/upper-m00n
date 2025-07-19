@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Ashutosh Sharma
 
-### 🚀 Full Stack Developer | MERN | TypeScript | C++ | DSA Enthusiast  
+###  Full Stack Developer | MERN | TypeScript | C++ | DSA Enthusiast  
 I'm a passionate and self-driven full stack developer with a strong foundation in building scalable web applications using the MERN stack. I'm currently pursuing B.Tech in Computer Science (3rd Year) and constantly sharpening my development and problem-solving skills through real-world projects and DSA practice.
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 - 🎓 B.Tech CSE Student | 3rd Year  
 - 💻 I specialize in **Full Stack Development** with hands-on experience in building **end-to-end web apps** using **MongoDB, Express.js, React, Node.js, Next.js, and TypeScript**.
